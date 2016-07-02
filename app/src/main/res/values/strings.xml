@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BarCodeBooks</string>
+    <string name="title_activity_list">listActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
